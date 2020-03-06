@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="national-bombay-biryani-70g-600x600" size="500.000000 500.000000" />
+    <ImageTarget name="sindhi_biryani_masala" size="5.000000 5.000000" />
+    <ImageTarget name="shan_korma_masala" size="5.000000 7.356771" />
+    <ImageTarget name="laziza_international_kheer" size="5.000000 7.425743" />
+  </Tracking>
+</QCARConfig>
